@@ -18,6 +18,8 @@ The data are stored in a [NetCDF](https://www.unidata.ucar.edu/software/netcdf/)
 - Temporal extent: late 20th century
 - Temporal resolution: 1 timeslice
 
+Dataset DOI: <https://doi.org/10.5281/zenodo.18274983>
+
 Because of known inconsistencies in available data sets of global
 wetland area and the availability of new, high-resolution land cover
 maps (including wetland classification) for certain continents, we
